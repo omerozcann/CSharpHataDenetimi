@@ -1,0 +1,10 @@
+D:\Belgeler\Visual Studio 2019\Projects\HataDenetimi\HataDenetimi\bin\Debug\HataDenetimi.exe.config
+D:\Belgeler\Visual Studio 2019\Projects\HataDenetimi\HataDenetimi\bin\Debug\HataDenetimi.exe
+D:\Belgeler\Visual Studio 2019\Projects\HataDenetimi\HataDenetimi\bin\Debug\HataDenetimi.pdb
+D:\Belgeler\Visual Studio 2019\Projects\HataDenetimi\HataDenetimi\obj\Debug\HataDenetimi.csprojAssemblyReference.cache
+D:\Belgeler\Visual Studio 2019\Projects\HataDenetimi\HataDenetimi\obj\Debug\HataDenetimi.htfrm.resources
+D:\Belgeler\Visual Studio 2019\Projects\HataDenetimi\HataDenetimi\obj\Debug\HataDenetimi.Properties.Resources.resources
+D:\Belgeler\Visual Studio 2019\Projects\HataDenetimi\HataDenetimi\obj\Debug\HataDenetimi.csproj.GenerateResource.cache
+D:\Belgeler\Visual Studio 2019\Projects\HataDenetimi\HataDenetimi\obj\Debug\HataDenetimi.csproj.CoreCompileInputs.cache
+D:\Belgeler\Visual Studio 2019\Projects\HataDenetimi\HataDenetimi\obj\Debug\HataDenetimi.exe
+D:\Belgeler\Visual Studio 2019\Projects\HataDenetimi\HataDenetimi\obj\Debug\HataDenetimi.pdb
